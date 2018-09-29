@@ -4,3 +4,8 @@
 
 # IntelliJ project files
 *ipa
+.idea/dbnavigator.xml
+.idea/iOSAppTest.iml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/codeStyles/Project.xml

@@ -11,3 +11,7 @@
 
 因此我们就建立一个web项目可以不用支持https，然后把我们的项目提交的[GitHub](https://github.com/)（GitHub是https协议的或者其他https网站如[码云](https://gitee.com/)等）仓库，然后获取到manifest.plist文件的地址替换为
 上面plist文件的地址。最后，启动我门本地的服务访问下载页面即可。
+
+
+
+补充文档：https://blog.csdn.net/xlyrh/article/details/79078271，主要解决访问不到github.com的问题

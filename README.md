@@ -15,3 +15,12 @@
 
 
 补充文档：https://blog.csdn.net/xlyrh/article/details/79078271，主要解决访问不到github.com的问题
+
+
+
+
+使用说明：
+1、IP设为192.168.1.220:8081
+2、ipa名称修改为hello_world.jpa
+3、将ipa放到www目录中
+4、node http_server
